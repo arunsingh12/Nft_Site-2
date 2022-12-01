@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header{
+  background-color: black;
+}
+
+.banner_image{
+  padding: 0 15px;
+  height: 500px;
+}
+.banner_image img{
+  height: 100%;
+  width: 100%;
+}
+.banner_content{
+  padding-top: 70px;
+  padding-right: 50px;
+}
+.banner_heading{
+  font-size: 60px;
+}
+.ordinary_text{
+  color: blueviolet;
+  font-weight: bold;
+}
+.banner_btn{
+  color: #fff;
+  padding: 15px 30px;
+  background-color: blueviolet;
+  border-radius: 5px;
+  text-decoration: none;
+}

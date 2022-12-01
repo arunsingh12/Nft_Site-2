@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .explore_box{
+    padding: 80px 15px;
+  }
+  .explore_btns{
+    float: right;
+  }
+  .allnfts_btn{
+    border: 1px solid #a39e9e;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #797979;
+    background-color: #fff;
+    margin-left: 5px;
+  }
+
+  .card_link{
+    text-decoration: none;
+  }
+  .explore_head{
+    font-weight: bold;
+  }
+  .card_box{
+    padding: 18px;
+    box-shadow: 0 0 25px rgb(0 0 0 / 17%);
+  }
+ 
+  .card_buttom{
+    border: none;
+  }
+  .card_icon{
+    margin-left: 60px;
+  }
+  

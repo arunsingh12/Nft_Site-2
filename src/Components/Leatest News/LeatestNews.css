@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .header_news{
+    padding: 0 15px;
+    padding-bottom: 90px;
+  }
+  .news_card{
+    box-shadow: 0 0 25px rgb(0 0 0 / 17%);
+  }
+  .date_comments{
+    font-weight: 600;
+    font-size: 13px;
+  }
+  .comment_link{
+    text-decoration: none;
+  }
+  .news_para{
+    color: #9d9d9d;
+  }

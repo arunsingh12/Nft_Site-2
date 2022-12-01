@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .footer_header{
+    background-color: black;
+  }
+
+  .company_box{
+    padding: 0 50px;
+  }
+  .company_col{
+    border-bottom: 1px solid gainsboro;
+  }
+  .company_image{
+    width: 200px;
+    padding: 0 15px;
+  }
+  .company_image imd{
+    width: 100%;
+  }
+
+  /*--------------------------------------------*/
+  .footer_col{
+    padding: 70px 0;
+    border-bottom: 1px solid gainsboro;
+  }
+  .address_head{
+    color: #fff;
+  }
+  .address_para{
+    color: rgb(196, 196, 196);
+    padding-top: 15px;
+  }
+  .address_box ul{
+    display: flex;
+    padding: 0;
+  }
+  .address_box ul li{
+    padding: 10px;
+    display: inline-block;
+  }
+
+  /*-------useful links*/
+
+  .useful_link_box ul{
+    padding: 0;
+  }
+  .useful_link_box ul li{
+    display: inline-block;
+    display: block;
+    padding: 5px 0;
+  }
+  .useful_link_box ul li .icon_link{
+    text-decoration: none;
+    color: #fff;
+  }
+
+  /*-------Our policy*/
+
+  .policy_box ul{
+    padding: 0;
+  }
+  .policy_box ul li{
+    display: inline-block;
+    display: block;
+    padding: 5px 0;
+  }
+  .policy_box ul li .icon_link{
+    text-decoration: none;
+    color: #fff;
+  }
+
+  /*-----Stay informed*/
+
+  .info_para{
+    color: rgb(196, 196, 196);
+    padding-top: 15px;
+    padding-right: 20px;
+  }
+  .email{
+    height: 55px;
+    width: 100%;
+    padding: 0px 30px;
+    border: none;
+    border-radius: 5px;
+  }
+  .email{
+    position: relative;
+  }
+  .send_btn{
+    border: none;
+    position: absolute;
+   right: 77px;
+   margin-top: 16px;
+   background-color: #fff;
+  }
+
+
+  /*--------Footer ending*/
+
+  .auther_text{
+    float: right;
+  }

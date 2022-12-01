@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+
+.header_navbar{
+  background-color: black;
+  padding: 10px 20px;
+}
+.nav_list{
+  margin-left: 170px;
+}
+.signin_link{
+  margin-left: 170px;
+}
+.main_list{
+  padding: 0 10px;
+}
+

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+
+
+  .icon_box{
+    background-color: #d01498;
+    border-radius: 50%;
+    width: 71px;
+    padding: 22px;
+  }
+  .create_col_head{
+    font-weight: 600;
+    font-size: 19px;
+  }
+  .create_col_para{
+    color: rgb(206, 203, 203);
+  }

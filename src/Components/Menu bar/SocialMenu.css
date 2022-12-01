@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .header_social{
+    border-bottom: 1px solid gray;
+    background-color: black;
+  }
+  .social_ul{
+    margin-left: 360px;
+    padding-top: 10px;
+  }
+  .social_list{
+    display: inline-block;
+    padding: 5px 7px;
+  }
+  .social_icon{
+    color: rgb(216, 216, 216);
+  }
+  .social_anchor_btn{
+    padding: 15px 15px;
+    background-color: rgb(187, 0, 187);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
